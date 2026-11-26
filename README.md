@@ -11,7 +11,7 @@
 - 💻 My GitHub is where I share my CyberLab work.
 - 🚀Interested in network security, threat detection, and secure coding
 
-## Stats
+## Social Account
 https://www.linkedin.com/in/victor-cairo-12521115/
 
 
