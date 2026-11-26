@@ -7,11 +7,12 @@
 # Hi there 👋
 
 ## About Me
-- 🌱 Learning Web Development
-- 💻 Love Open Source
-- 🚀 Building cool projects
+- 🌱 I’m learning cybersecurity and building hands-on projects.
+- 💻 My GitHub is where I share my CyberLab work.
+- 🚀Interested in network security, threat detection, and secure coding
 
 ## Stats
+https://www.linkedin.com/in/victor-cairo-12521115/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
